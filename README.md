@@ -6,3 +6,5 @@
 ### **In Alpha Preview stages**
 
 - Codename: SimJikBot
+
+https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
