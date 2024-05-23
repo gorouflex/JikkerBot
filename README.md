@@ -8,3 +8,6 @@
 - Codename: SimJikBot
 
 https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
+
+
+### ⚠️Warning⚠️: This project `SimpleTool` and `JikkerBot` repo are for education purposes only, I am not responsible if you were ban in game!
