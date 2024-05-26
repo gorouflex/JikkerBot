@@ -5,7 +5,9 @@
 
 ### **In Alpha Preview stages**
 
-- Codename: SimJikBot
+- Codename: L2TDream (SimJikBot)
+
+(`I thought Vanguard wouldn’t detect py.exe`)
 
 https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes
 
